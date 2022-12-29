@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+#pic{
+    height:300px;
+    border-radius: 100%;
+border: 5px solid white;
+position: static;
+margin-top: -150px;
+margin-left: 100%;
+}
+.bg{
+    height: 200px;
+   background-color: black; 
+}
+.aboutme{
+    width: 430px;
+    height: 900px;
+    background-image:linear-gradient(to left,white,rgb(116, 116, 220),rgb(75, 75, 236)); 
+}
+
+#name{
+    text-align: center;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+#a{
+    text-align: center;
+    font-size: larger;
+    color: white;
+    margin: 2px;
+}
+.projects{
+    text-align: center;
+    padding-bottom:100px ;
+    margin-top: 50px;
+}
+ul{
+    list-style: disc;
+    color: antiquewhite;
+    margin:10px;
+    list-style-position: inside;
+}
+li{
+    margin:10px;
+}
+.container{
+   
+    width: 1100px;
+    height: 900px;
+    margin-left: 431px;
+    margin-top: -900px;
+    background-color:#c5d5cb;
+    /* background-color: black;
+    color: white; */
+}
+.adress{
+position: static;
+margin-top: -100px;
+}
+.upper{
+    text-align: center;
+}
+#w{
+    font-style: oblique;
+    font-size: 50px;
+}
+#q{
+    font-size: 30px;
+    margin-top: 10px;
+    font-style: italic;
+    margin-left: 30px;
+}
+#l{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+#n{
+    margin-top: 20px;
+    margin-left:12%;
+    size: 23px;
+    font-family: sans-serif;
+}
+h3{
+    margin-left: 100px;
+}
+pre{
+    margin-top: 20px;
+    margin-left:12%;
+    size: 23px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.design{
+    margin-top: 50px;
+}
